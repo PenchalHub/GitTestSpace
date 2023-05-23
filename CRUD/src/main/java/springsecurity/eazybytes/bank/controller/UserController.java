@@ -37,7 +37,7 @@ public class UserController {
 	  }
 	  
 	  catch(Exception e) {
-		  System.out.println("ERROR Message From PENCHAl-GIT  :-->"+e.getLocalizedMessage());
+		  System.out.println("ERROR Message From PENCHAl-GIT-ok  :-->"+e.getLocalizedMessage());
 		  return 0;
 	  }
    }
